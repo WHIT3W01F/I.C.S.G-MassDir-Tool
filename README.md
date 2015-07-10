@@ -28,3 +28,7 @@ Then It cp This File Too All Folders In /home/user/sites/
 
 Note : Script And Deface File Should Be In One Directory.
 
+Video Tutorial : http://www.mediafire.com/download/8ny4m9jeamq84d7/I.C.S.G_MassDir_Tool_(Iran-Cyber.Org)_Tut.rar
+
+Rar PassWord : Iran-Cyber.Org
+
